@@ -40,3 +40,7 @@ repos:
     hooks:
     -   id: mypy
         additional_dependencies: [types-all]
+-   repo: local
+    rev: v4.8.0
+    hooks:
+    -   id: check_xml_xpath

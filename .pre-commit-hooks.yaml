@@ -89,6 +89,12 @@
     entry: check-xml
     language: python
     types: [xml]
+-   id: check-xml-xpath
+    name: check xpath
+    description: checks xpath in xml files for parseable syntax.
+    entry: check-xml-xpath
+    language: python
+    types: [xml]
 -   id: check-yaml
     name: check yaml
     description: checks yaml files for parseable syntax.

@@ -1,1 +1,1 @@
-# pre-commitcheck
+for pre-commit checks
